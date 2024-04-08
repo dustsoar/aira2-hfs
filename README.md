@@ -1,8 +1,7 @@
 # aira2-hfs
-A Simple HFS web page for aira2 download 
+A Simple HFS web page for aira2 download on Windows PC.
 
 1.Download
-
 
 2.Run aria.bat
 
@@ -10,8 +9,7 @@ A Simple HFS web page for aira2 download
 
 4.Done!
 
-Credits
-
+Credits：
 
 https://github.com/rejetto/hfs
 
