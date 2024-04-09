@@ -1,6 +1,8 @@
 # aira2-hfs
 A Simple HFS web page for aira2 download on Windows PC.
 
+非常简单的一个远程下载机
+
 1.Download
 
 2.Run aria.bat
@@ -8,7 +10,6 @@ A Simple HFS web page for aira2 download on Windows PC.
 3.Open webpage on your PC ip
 
 4.Done!
-
 
 Video demo：https://youtu.be/ArWosyCUQig
 
